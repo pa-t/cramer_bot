@@ -1,0 +1,12 @@
+.env
+/yamls/
+
+*/__pycache__/
+
+build/
+components.egg-info/
+dist/
+
+graphs/
+
+.DS_Store

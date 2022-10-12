@@ -1,0 +1,11 @@
+nltk==3.7
+numpy==1.23.2
+pandas==1.4.3
+python-decouple==3.6
+python-twitter==3.5
+torch==1.12.1
+transformers==4.21.1
+kfp==1.4.0
+fpdf==1.7.2
+matplotlib==3.6.0
+# contourpy-1.0.5 cycler-0.11.0 fonttools-4.37.3 kiwisolver-1.4.4 matplotlib-3.6.0 pillow-9.2.0
